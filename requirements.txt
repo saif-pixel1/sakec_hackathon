@@ -1,0 +1,24 @@
+# ─────────────────────────────────────────────────────────────
+# AI Stock Market Sentiment & Trend Shift Analyzer
+# Requirements File
+# ─────────────────────────────────────────────────────────────
+
+# Core Framework
+streamlit>=1.32.0
+
+# Anthropic Claude AI SDK
+anthropic>=0.21.0
+
+# Data Manipulation & Analysis
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Visualization (used by streamlit charts)
+altair>=5.2.0
+
+# Standard Library (no install needed, listed for reference)
+# json      — built-in
+# re        — built-in
+# random    — built-in
+# datetime  — built-in
+# time      — built-in
